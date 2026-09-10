@@ -67,6 +67,41 @@ all.
 To ask what an advertising partner holds about your device, or to have it deleted,
 contact Unity through the policy linked above — they are the party that holds it.
 
+## How to request deletion of your data
+
+This section is the one Google Play links to as Nockle's data deletion request page, and it
+is written to be followed step by step.
+
+**1. Delete what is on your device.** Uninstall Nockle. Everything the game itself stored —
+your level, your unlocked themes, your chosen theme, the sound setting — is deleted with it,
+immediately and completely. There is no copy anywhere else, because the game has no server.
+
+**2. Break the link to your advertising data.** On Android, open
+*Settings → Privacy → Ads* and choose **Delete advertising ID**, or **Reset advertising ID**
+if you would rather keep receiving ads without the history. Deleting it stops apps receiving
+an ID at all; resetting it issues a new one and severs everything associated with the old.
+
+**3. Ask the advertising partner to erase what it holds.** The advertising data is held by
+Unity (LevelPlay and ironSource), not by us. Request its deletion through the privacy contact
+in their policy:
+https://unity.com/legal/game-player-and-app-user-privacy-policy
+
+**4. Or write to us and we will pass the request on.** GNGames2020@gmail.com. Include your
+advertising ID from step 2 — without it there is no way to identify which records are yours,
+because we hold nothing that names you.
+
+### What is deleted, what is kept, and for how long
+
+| Data | Who holds it | What happens |
+| --- | --- | --- |
+| Level, themes, sound setting | Your device only | Deleted the moment you uninstall. Never transmitted. |
+| Advertising ID | Your device, and Unity | You delete or reset it yourself, at any time, in Android settings. |
+| Approximate location, device information, ad interactions, diagnostics | Unity / ironSource | Retained under Unity's own policy. Deletion is requested through them, or through us. |
+| Aggregate counts — how many ads were shown and what they earned | Us | Kept indefinitely. **These are totals, not records about you**: they contain no identifier and cannot be traced back to any device, so there is nothing in them to delete. |
+
+We keep no account, no profile and no identifier of any kind. There is no record of you here
+to erase — which is why every step above points at your device or at Unity.
+
 ## Changes
 
 If this policy changes, the date at the top changes with it, and the current version is
