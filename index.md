@@ -2,7 +2,7 @@
 
 **Last updated: 8 September 2026**
 
-Nockle is a puzzle game published by GNGames2020. This policy explains what the app
+Nockle is a puzzle game published by CG Art Studio. This policy explains what the app
 collects, who receives it, and what you can do about it.
 
 The short version: the game itself collects nothing and has no account, no login and no
@@ -86,7 +86,7 @@ Unity (LevelPlay and ironSource), not by us. Request its deletion through the pr
 in their policy:
 https://unity.com/legal/game-player-and-app-user-privacy-policy
 
-**4. Or write to us and we will pass the request on.** GNGames2020@gmail.com. Include your
+**4. Or write to us and we will pass the request on.** GiorgiAmirkhanovi@gmail.com. Include your
 advertising ID from step 2 — without it there is no way to identify which records are yours,
 because we hold nothing that names you.
 
@@ -109,7 +109,7 @@ always at this address.
 
 ## Contact
 
-**GNGames2020@gmail.com**
+**GiorgiAmirkhanovi@gmail.com**
 
 ---
 
