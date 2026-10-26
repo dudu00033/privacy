@@ -1,6 +1,6 @@
 # Privacy Policy for Don't Touch The Red
 
-**Last updated: 27 October 2026**
+**Last updated: 27 October 2026** (banner and between-runs ads added)
 
 Don't Touch The Red is an arcade game published by CG Art Studio. This policy explains what the
 app collects, who receives it, and what you can do about it.
@@ -38,11 +38,14 @@ The app does not ask for your location, contacts, camera, microphone, photos or 
 
 ## What the advertising collects
 
-Don't Touch The Red can show one kind of ad: a video **you choose to watch** after a run, in
-exchange for doubling the gems you collected. There are no banners and no ads that interrupt a
-game. If you never press the button, you never see an ad.
+Don't Touch The Red shows three kinds of ad, and **none of them ever interrupts a run**:
 
-The videos are served through **Unity LevelPlay** (ironSource), which runs an auction among the
+- a small **banner** at the bottom of the menus — never during play, a pause or the Game Over screen;
+- an occasional **full-screen ad between runs** — at most once every few runs (never in your first runs of a
+  session), and only after a run has ended, when you choose to play again or go back to the menu;
+- a **video you choose to watch** after a run, in exchange for doubling the gems you collected.
+
+The ads are served through **Unity LevelPlay** (ironSource), which runs an auction among the
 advertising networks configured for the app — including Unity Ads — and passes each request to
 whichever of them wins it. To select, deliver and measure ads, these companies may collect:
 
@@ -83,7 +86,7 @@ entirely, after which apps receive no ID at all.
 
 **Opt out of personalised ads** in the same settings screen.
 
-**Never watch an ad.** Ads appear only when you press the button that offers one.
+**Skip the videos.** The gem-doubling video appears only when you press the button that offers it.
 
 **Uninstall the app.** This deletes everything Don't Touch The Red stored on your device.
 
