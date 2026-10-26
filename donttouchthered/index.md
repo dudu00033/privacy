@@ -50,16 +50,19 @@ advertising networks configured for the app — including Unity Ads — and pass
 whichever of them wins it. To select, deliver and measure ads, these companies may collect:
 
 - Your device's **advertising ID** (Google Advertising ID)
+- **Identifiers the advertising software creates for this installation** — a random user ID used to keep
+  ad sessions consistent, cap how often an ad is shown and prevent fraud. It is not linked to your name.
 - Your **IP address**, from which an approximate location — typically your country — can be
   derived
 - **Device information**: model, manufacturer, operating system version, language, screen size,
   and whether the device is a tablet or a phone
-- **Ad interaction data**: which ads were shown, how long they were watched, and whether they
-  were clicked
+- **Ad interaction data**: which ads were shown, how long they were watched, taps and page views
+  inside the ad itself (never during gameplay), and whether they were clicked
 - **Diagnostics**: performance and error information about the advertising software itself, used
   to keep it working and to detect fraud
 
-This data is collected by those companies directly, under their own policies:
+This data is collected by those companies directly and may be shared among the advertising partners
+taking part in the auction, under their own policies:
 
 - Unity (LevelPlay, ironSource and Unity Ads):
   https://unity.com/legal/game-player-and-app-user-privacy-policy
