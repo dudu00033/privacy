@@ -1,158 +1,148 @@
-# Privacy Policy for Steal The Coin
+# Steal The Coin — Privacy Policy
 
-**Last updated: 27 October 2026**
+**Effective: 27 October 2026**
+**Publisher:** CG Art Studio
+**Contact:** gngames2020@gmail.com
 
-Steal The Coin is an arcade game published by CG Art Studio. This policy explains what the app
-collects, who receives it, and what you can do about it.
+## In brief
 
-The short version: the game itself collects nothing and has no account, no login and no
-server. Everything it remembers about you stays on your phone. The only advertising is a video
-you choose to watch, and the advertising software is what most of this page is about.
+- **No accounts and no servers.** Steal The Coin has no sign-in and no online service. Your progress is saved
+  only on your phone.
+- **Nothing to buy.** There are no in-app purchases. You earn coins by playing and spend them on characters.
+- **Ads, never during play.** There are three kinds:
+  - a video you can choose to watch for double coins;
+  - a small banner on the menu screens;
+  - now and then a full-screen ad between two runs.
+- **Your choice on personalised ads.** The first time you open the game, you choose whether our ad partners may
+  personalise ads. You can change it later in Settings.
+- **Not for young children.** The game is not intended for children younger than 13.
 
-## What the game stores
+## 1. What the game keeps on your phone
 
-Your best score, your coin balance, the characters you have unlocked and the one you picked,
-your achievements, a list of your ten best runs (score, coins, whether you escaped before the
-timer ran out, the time played and the date of each), simple totals such as how many runs you
-have played and how many coins you have collected, whether the how-to-play screen has been
-shown, and your settings: music and sound volume, vibration on or off, and graphics quality.
+To remember your game, Steal The Coin saves the following in its private app storage:
 
-All of it is written to your device's own app storage and never leaves it. We cannot read it,
-and it is deleted when you uninstall the app.
+- **Progress:** your coins, best score, unlocked characters and the one you use, achievements, your ten best
+  runs (score, coins, whether you escaped the timer, playing time and date), and simple totals such as runs
+  played and coins collected.
+- **Settings:** the music and sound-effect volumes, whether vibration is enabled, the graphics quality, and
+  whether the how-to-play card has already appeared.
+- **Your answer to the personalised-ads question.**
+- **Counters that space out the ads:** how many times the game has been started and how many runs have passed
+  since the last full-screen ad.
 
-There is no account to create, nothing to log into, and no way for us to tell one player from
-another. The game sends no analytics and no crash reports of its own.
+This information never leaves your phone through the game itself. It isn't sent to us, and we can't see it.
+The app also excludes it from Android's cloud backup and device-to-device transfer, so it stays on this phone
+and is removed when you uninstall the game.
 
-**There are no purchases in Steal The Coin.** Coins are earned by playing and spent only on
-characters inside the game. Nothing is sold for money, so no payment information of any kind is
-asked for, handled or stored.
+The game has no analytics and no crash reporting of its own.
 
-## Permissions
+## 2. Advertising
 
-- **Vibration**: short haptic feedback during play. You can switch it off in the game's
-  Settings. It involves no data of any kind.
-- **Internet access** and **network state**: used only by the advertising software described
-  below. The game itself works completely offline.
-- **Advertising ID**: lets the advertising software read your device's advertising ID (see below).
-  You control this ID in Android's settings.
-- **Android ad services** (ad attribution and ad topics, part of Android's Privacy Sandbox): declared
-  by the advertising software, so it can use Android's privacy-preserving ad measurement where the
-  device supports it. You manage these in Android's ad privacy settings.
+### When you see ads
 
-The app does not ask for your location, contacts, camera, microphone, photos or files.
+| Ad | When it appears |
+|---|---|
+| **Reward video** | Only when you tap **WATCH AD — GET 2X** on the results screen. If you watch it to the end, you receive the coins from that run a second time. |
+| **Banner** | A strip at the bottom of the main menu, shop, settings and records screens. Never during a run, while paused or on the results screen. |
+| **Full-screen ad** | Sometimes, when you leave the results screen with **Retry** or **Home**. Never during a run or at its start. |
 
-## What the advertising collects
+Full-screen ads are limited as follows:
 
-Steal The Coin shows **one kind of ad only: a video you choose to watch**. After a run, the Game
-Over screen offers **WATCH AD — GET 2X**. If you watch the video to the end, the coins from that
-run are paid a second time. Nothing else happens if you don't.
+- at most one every 3 runs, and at least 90 seconds apart;
+- none during the first two runs after you open the game;
+- none at all during your very first time playing;
+- none right after you have watched a reward video.
 
-There are **no banners and no full-screen ads between runs**, and **no ad ever interrupts a run**.
+### Who shows the ads
 
-The video is served through **Unity LevelPlay** (ironSource; SDK 9.5.1, app key 2906a7d25). It
-runs an auction among the advertising networks configured for the app, including Unity Ads, and
-passes the request to whichever of them wins. To select, deliver and measure ads, these companies
-may collect:
+Ads are delivered by **Unity LevelPlay**, the ad mediation service of Unity / ironSource, through its SDK
+version 9.5.1. It chooses an ad from the networks we use, which are **ironSource Ads** and **Unity Ads**.
 
-- Your device's **advertising ID** (Google Advertising ID)
-- **Identifiers the advertising software creates for this installation**: a random user ID used to keep
-  ad sessions consistent, cap how often an ad is shown and prevent fraud. It is not linked to your name.
-- Your **IP address**, from which an approximate location (typically your country) can be
-  derived
-- **Device information**: model, manufacturer, operating system version, language, screen size,
-  and whether the device is a tablet or a phone
-- **Ad interaction data**: which ads were shown, how long they were watched, taps and page views
-  inside the ad itself (never during gameplay), and whether they were clicked
-- **Diagnostics**: performance and error information about the advertising software itself, used
-  to keep it working and to detect fraud
+### What the ad partners may collect
 
-The advertising software starts only to fetch and show this optional video, and nothing it
-collects is used inside the game. The data is collected by those companies directly and may be
-shared among the advertising partners taking part in the auction, under their own policies:
+These companies collect information directly from your device under their own privacy policies. They use it
+to choose, show and count ads, to cap how often you see them and to detect fraud. The information can include:
 
-- Unity (LevelPlay, ironSource and Unity Ads):
-  https://unity.com/legal/game-player-and-app-user-privacy-policy
+- your device's **advertising ID**;
+- **identifiers created by the ad software** for this installation;
+- your **IP address**, from which a rough location (usually the country) can be inferred;
+- **device details**, such as model, operating system, language, screen and network type;
+- **ad activity**, such as which ads were shown or watched and whether you tapped one;
+- **technical diagnostics** about the ad software.
 
-We do not receive any of it in a form that identifies you. What we see are aggregate counts:
-how many ads were shown, and what they earned.
-
-## Personalised advertising
-
-Steal The Coin requests **non-personalised** advertising. It tells the advertising software that
-no consent to personalised ads has been given, and that your personal information may not be
-sold. Ads are chosen without using a profile built from your past activity.
-
-## Children
-
-Steal The Coin is **not directed to children under 13**, and the app is registered with its
-advertising partners as not child-directed. We do not knowingly collect data from children. If
-you believe a child has used the app and you want their advertising data removed, contact us and
-we will pass the request to our advertising partners.
-
-## Your choices
-
-**Don't watch the video.** The coin-doubling video appears only when you press the button that
-offers it. You can play forever without seeing an ad.
-
-**Reset or delete your advertising ID.** On Android: *Settings → Privacy → Ads*. You can reset
-the ID, which breaks the link to everything previously associated with it, or delete it
-entirely, after which apps receive no ID at all.
-
-**Opt out of personalised ads** in the same settings screen.
-
-**Uninstall the app.** This deletes everything Steal The Coin stored on your device.
-
-To ask what an advertising partner holds about your device, or to have it deleted, contact Unity
-through the policy linked above. They are the party that holds it.
-
-## How to request deletion of your data
-
-This section is the one Google Play links to as the game's data deletion request page, and it
-is written to be followed step by step.
-
-**1. Delete what is on your device.** Uninstall Steal The Coin (or clear its storage in Android
-settings). Everything the game itself stored (scores, records, coins, unlocked characters,
-achievements and settings) is deleted with it, immediately and completely. There is no copy
-anywhere else, because the game has no server.
-
-**2. Break the link to your advertising data.** On Android, open *Settings → Privacy → Ads* and
-choose **Delete advertising ID**, or **Reset advertising ID** if you would rather keep receiving
-ads without the history. Deleting it stops apps receiving an ID at all. Resetting it issues a new
-one and severs everything associated with the old.
-
-**3. Ask the advertising partner to erase what it holds.** The advertising data is held by Unity
-(LevelPlay, ironSource and Unity Ads), not by us. Request its deletion through the privacy
-contact in their policy:
+Unity's privacy policy, which covers LevelPlay, ironSource Ads and Unity Ads:
 https://unity.com/legal/game-player-and-app-user-privacy-policy
 
-**4. Or write to us and we will pass the request on.** gngames2020@gmail.com. Include your
-advertising ID from step 2. Without it there is no way to identify which records are yours,
-because we hold nothing that names you.
+CG Art Studio receives only totals, such as the number of ads displayed and the revenue they produced. These
+totals never identify a person.
 
-### What is deleted, what is kept, and for how long
+### Your choice: personalised or not
 
-| Data | Who holds it | What happens |
-| --- | --- | --- |
-| Scores, records, coins, characters, achievements, settings | Your device only | Deleted the moment you uninstall. Never transmitted. |
-| Advertising ID | Your device, and Unity | You delete or reset it yourself, at any time, in Android settings. |
-| Approximate location, device information, ad interactions, diagnostics | Unity / ironSource | Retained under Unity's own policy. Deletion is requested through them, or through us. |
-| Aggregate counts: how many ads were shown and what they earned | Us | Kept indefinitely. **These are totals, not records about you**: they contain no identifier and cannot be traced back to any device, so there is nothing in them to delete. |
+The first time you start the game, a short screen asks whether our ad partners may personalise ads.
 
-We keep no account, no profile and no identifier of any kind. There is no record of you here to
-erase, which is why every step above points at your device or at Unity.
+- **ACCEPT:** they may use your advertising ID to show ads that fit your interests.
+- **NO THANKS:** ads are still shown, but are not personalised.
 
-## Changes
+You can change your answer at any time in **Settings → Privacy / Ad choices**. The ad software reads the answer
+when it starts, so a change takes effect the next time you open the game.
 
-If this policy changes, the date at the top changes with it, and the current version is always
-at this address.
+Independently of your answer, the game always tells the ad software that:
 
-## Contact
+- your personal information must not be sold (US state privacy laws);
+- the app is not directed to children (COPPA).
 
-CG Art Studio, **gngames2020@gmail.com**
+## 3. Permissions
 
----
+| Permission | Why |
+|---|---|
+| **Vibration** | For short haptic effects in play. Switch it off in Settings. |
+| **Internet** and **network state** | Needed only for the ad software. The game itself plays offline. |
+| **Advertising ID** | Lets the advertising software read the ID described above. |
+| **Ad services** (ad attribution and ad topics, part of Android's Privacy Sandbox) | Declared by the advertising software for privacy-preserving ad measurement, where your device supports it. |
+| **Wake lock, foreground service, start after reboot** | Declared by Android's standard background-task library, which the advertising software uses to finish short tasks such as sending ad reports. |
 
-*This policy describes what the app actually does, and was written against its source code and
-build configuration rather than from a template. It is not legal advice. If Steal The Coin is
-distributed in a market with specific requirements, or if the app later gains a server, an
-account, analytics, a purchase or another kind of ad, this needs revisiting.*
+No other access is requested: the game cannot see where you are, your contacts, your camera or microphone,
+or your pictures and documents.
+
+## 4. Children
+
+Steal The Coin is not intended for children younger than 13, and we do not knowingly collect information from
+them. If a child has played and you want the related advertising data erased, email us and we'll forward your
+request to Unity.
+
+## 5. Your controls
+
+- **Personalised ads:** in the game, **Settings → Privacy / Ad choices**.
+- **Advertising ID:** Android's ad privacy settings (**Settings → Privacy → Ads**) let you reset or delete the
+  ID, or opt out of ad personalisation for all apps.
+- **Video ads:** skip them entirely by not pressing the 2X button.
+- **Everything the game stored:** uninstalling removes it; so does *Clear data* in the app's Android settings.
+
+## 6. Deleting your data
+
+This section is also the data-deletion page Google Play links to.
+
+1. **On your phone:** uninstall Steal The Coin, or open *Android Settings → Apps → Steal The Coin → Storage →
+   Clear data*. All game data (progress, coins, characters, achievements, records, settings, ad choice and ad
+   counters) is erased at once. No copy exists anywhere else.
+2. **The advertising link:** delete or reset your advertising ID (Android's ad privacy settings). Data tied to
+   the old ID can then no longer be connected to your phone.
+3. **At the ad partners:** Unity holds the advertising data, not us. Ask Unity to delete it through the
+   contact options in the policy linked above.
+4. **Through us:** email **gngames2020@gmail.com** with your advertising ID and we'll forward it to Unity. Without the ID nothing can be matched to you, because we keep no data about players.
+
+| What | Kept by | How long |
+|---|---|---|
+| Game progress, settings, ad choice, ad counters | Your phone only | Until you uninstall or clear the app's storage |
+| Advertising ID | Your phone (and Unity, when ads are requested) | Until you reset or delete it |
+| Ad delivery data | Unity / ironSource | Per Unity's privacy policy |
+| Ad totals (counts and revenue) | CG Art Studio | Indefinitely; they hold nothing about any individual |
+
+## 7. Changes
+
+When this policy changes, the effective date above changes too. The current version is always published at
+https://dudu00033.github.io/privacy/stealthecoin/.
+
+## 8. Contact
+
+CG Art Studio · gngames2020@gmail.com
