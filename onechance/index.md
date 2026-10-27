@@ -15,11 +15,13 @@ The levels you have unlocked and completed, your best time and number of attempt
 your coin balance, the orb skins you own and the one you have equipped, the progress rewards you
 have already collected, your hint tokens and the hints you have unlocked, today's daily challenge
 (whether you have completed it, your best time, your attempts and your streak), simple totals such
-as how many levels you have completed, and your settings: music and sound effects on or off, their
-volume, and vibration on or off.
+as how many levels you have completed, when you last watched the shop's bonus-coins video (to keep
+the five-minute wait between those offers), and your settings: music and sound effects on or off,
+their volume, and vibration on or off.
 
-All of it is written to a single file in your device's own app storage and never leaves it. We
-cannot read it, and it is deleted when you uninstall the app.
+All of it is written to one save file, plus a backup copy of it so that a crash mid-save can never
+corrupt your progress, both in your device's own app storage. It never leaves the device. We cannot
+read it, and both files are deleted when you uninstall the app.
 
 There is no account to create, nothing to log into, and no way for us to tell one player from
 another. The game sends no analytics and no crash reports of its own.
@@ -59,7 +61,8 @@ ONE CHANCE shows three kinds of ad, and **no ad ever appears while you are playi
   if you don't press the button.
 - **Full-screen ads between levels.** Occasionally, when you leave a result screen to go to the
   next level or back to a menu. Never when you press RETRY, never during a level, never in your
-  first five levels, and at most one every two minutes.
+  first five levels, at most one every two minutes and every three level results, and never within
+  two minutes of a video you chose to watch.
 - **A banner** at the bottom of the main menu, the level list and the shop. Never on the game
   screen.
 
