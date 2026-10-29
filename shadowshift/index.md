@@ -58,7 +58,8 @@ The app does not ask for your location, contacts, camera, microphone, photos or 
 
 SHADOW SHIFT shows three kinds of ad, and **none of them ever interrupts a puzzle**:
 
-- a small **banner** at the bottom of the main menu, and never during a level;
+- a small **banner** at the bottom of the menu screens (main menu, world and level selection, shop,
+  missions, daily reward and settings), never during a level;
 - an occasional **full-screen ad between levels**. It never appears in the first levels of the game,
   never more than once every few completed levels and never within a few minutes of the previous
   full-screen ad. It only appears after you have finished a level and tapped to move on.
